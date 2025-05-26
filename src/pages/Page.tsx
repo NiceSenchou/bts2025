@@ -29,7 +29,7 @@ const cardContent =[
   },  
   {
     title: "Item 5",
-    subtitle: "Subtitle 5",
+    subtitle: "Subtitl 5",
     content: "This is the content for Item 5",
   }
 ];
